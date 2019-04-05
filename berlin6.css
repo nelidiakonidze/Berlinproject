@@ -107,3 +107,6 @@ body {
   transition: all 280ms ease-in-out;
  
 }
+.navbarlight {
+  color: #FFFFFF !important;
+}
