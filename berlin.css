@@ -73,14 +73,16 @@ body {
   transition: all 280ms ease-in-out;
   width: 0;
 }
+
+.button-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 .berlinbutton {
     font-family: "vidaloka";
     font-size: 28px;
     color: #fff;
-    padding-left: 40px;
-    padding-right: 40px;
     text-align: center;
-    margin-left: 620px;
-    margin-top: 0px;
-}
+  }
 
