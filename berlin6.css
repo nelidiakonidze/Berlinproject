@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(/Photos/contactphoto.jpg);
+    background-image: url(Photos/contactphoto.jpg);
     background-size: cover;
     margin-bottom: 700px;
     width: 100%;

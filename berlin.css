@@ -19,7 +19,7 @@
   font-size: 60px;
 }
 body {
-    background: url(/Photos/tvtower2.jpg);
+    background: url(Photos/tvtower2.jpg);
     background-size:cover;
     background-position: center center;
     background-attachment: fixed;
